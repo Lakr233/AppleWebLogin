@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "msdisplaylink",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/MSDisplayLink.git",
+      "state" : {
+        "revision" : "c2fcd28cb99300d83acc30860ce252ef97c20b61",
+        "version" : "1.1.1"
+      }
+    },
+    {
+      "identity" : "springinterpolation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/SpringInterpolation.git",
+      "state" : {
+        "revision" : "ff526fec3ef6df62395141a0cc55a4ba2d82ee81",
+        "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "windowanimation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Lakr233/WindowAnimation",
+      "state" : {
+        "revision" : "d21e845e174f4d5a2ea8d4767275827179c53129",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
